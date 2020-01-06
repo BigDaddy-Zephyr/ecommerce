@@ -1,6 +1,6 @@
 # ecommerce
 
-Application on which users can pick a product from products page and can add them to cart
+<b>Application on which users can pick a product from products page and can add them to cart</b>
 Pages created :
 
 Product page list
